@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=GUREUSO&fontSize=60&fontColor=000000&fontAlign=50&fontAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FCB6D0&height=150&section=header&text=GUREUSO&fontSize=60&fontColor=000000&fontAlign=50&fontAlignY=70)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
@@ -16,4 +16,4 @@ My job is Server Developer/Freelancer/Tutor.
   <img src="https://img.shields.io/badge/-React-yellow"/>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=B6DCB6&height=150&section=footer)
