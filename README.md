@@ -10,7 +10,7 @@ My job is Server Developer/Freelancer/Tutor.
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-FastAPI-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Flask-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
   <img src="https://img.shields.io/badge/-React-yellow"/>
